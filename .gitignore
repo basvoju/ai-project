@@ -1,12 +1,26 @@
+# Temporary files
+temp/
+
+# OS files
 .DS_Store
+**/.DS_Store
+
+# Python
 __pycache__/
-*.pyc
-.ipynb_checkpoints/
-
-# virtual environments
-ai_env/
-.venv/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
 venv/
+ENV/
+.venv
 
-# editors
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
 .vscode/
+.idea/
+*.swp
+*.swo
