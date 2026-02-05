@@ -1,6 +1,6 @@
-# ai-mastery-bootcamp-curriculum (2026)
+# ai
 
-AI bootcamp curriculum covering Python, ML, Deep Learning, GenAI, and Agents—plans, labs, templates, and teaching resources.
+AI Python, ML, Deep Learning, GenAI, and Agents—plans, labs, templates, and teaching resources.
 
 ## Folder structure
 ```text
